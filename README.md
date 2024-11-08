@@ -1,7 +1,5 @@
 # CloudVoy
 
-![CloudVoy Logo](https://example.com/logo.png) *(Replace with your actual logo URL)*
-
 CloudVoy is a robust Python library designed to automate the process of uploading YouTube videos to Instagram Reels. By seamlessly integrating with the YouTube Data API, AWS S3, Instagram Graph API, and AWS DynamoDB, CloudVoy provides a streamlined workflow for content creators to distribute their YouTube content to Instagram effortlessly.
 
 ## Table of Contents
@@ -49,14 +47,6 @@ You can install CloudVoy using `pip`. Ensure you have `pip` installed and update
 pip install CloudVoy
 ```
 
-Alternatively, you can install it directly from the GitHub repository:
-
-```bash
-pip install git+https://github.com/yourusername/CloudVoy.git
-```
-
-*(Replace yourusername with your actual GitHub username.)*
-
 ## Configuration
 
 CloudVoy uses environment variables to manage configurations securely. Follow the steps below to set up your environment.
@@ -66,7 +56,7 @@ CloudVoy uses environment variables to manage configurations securely. Follow th
 If you haven't already, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/CloudVoy.git
+git clone https://github.com/div-yam/CloudVoy.git
 cd CloudVoy
 ```
 
