@@ -14,9 +14,6 @@ CloudVoy is a robust Python library designed to automate the process of uploadin
 - [Examples](#examples)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
