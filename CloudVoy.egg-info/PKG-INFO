@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: CloudVoy
+Version: 1.0.0
+Summary: A library to upload YouTube videos to Instagram Reels automatically.
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
